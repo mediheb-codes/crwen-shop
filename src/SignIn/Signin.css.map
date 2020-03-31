@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,QAAQ,CAAC;EACL,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;CACvB;;AACH,AAAA,gBAAgB,CAAA;EACd,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;CAC/B",
+    "sources": [
+        "Signin.scss"
+    ],
+    "names": [],
+    "file": "Signin.css"
+}

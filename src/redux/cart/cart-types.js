@@ -1,0 +1,7 @@
+ const CartActionTypes = {
+    TOOGLE_SHOP_CARD: 'TOOGLE_SHOP_CARD',
+    SET_CART_ITEM : 'SET_CART_ITEM',
+    REMOVE_CART_ITEM : 'REMOVE_CART_ITEM' , 
+    CLEAR_QUANTITY_ITEM : 'CLEAR_QUANTITY_ITEM'
+}
+export default CartActionTypes ;
